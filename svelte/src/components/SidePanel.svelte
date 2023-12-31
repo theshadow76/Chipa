@@ -28,7 +28,7 @@
                 <img src="https://cdn4.iconfinder.com/data/icons/business-finance-vol-12-2/512/10-512.png" alt="planet_icon">
                 <h3>Dashboard</h3>
             </li>
-            <li>
+            <li> 
                 <img src="https://cdn4.iconfinder.com/data/icons/business-finance-vol-12-2/512/10-512.png" alt="planet_icon">
                 <h3>Wallet</h3>
             </li>
